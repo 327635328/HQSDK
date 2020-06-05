@@ -1,0 +1,6 @@
+framework module Pods_HQSDK_Tests {
+  umbrella header "Pods-HQSDK_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

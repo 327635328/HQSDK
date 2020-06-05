@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - HQSDK (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - HQSDK (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  HQSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  HQSDK: 28155051d9557447af7da566130bf8278fff9b1c
+
+PODFILE CHECKSUM: e56c52431207fc9e609d678afefdbdc5e45fc342
+
+COCOAPODS: 1.9.3

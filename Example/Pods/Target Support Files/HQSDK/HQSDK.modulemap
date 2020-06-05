@@ -1,0 +1,6 @@
+framework module HQSDK {
+  umbrella header "HQSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

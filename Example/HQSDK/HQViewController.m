@@ -7,7 +7,7 @@
 //
 
 #import "HQViewController.h"
-
+#import "HQCommondView.h"
 @interface HQViewController ()
 
 @end
@@ -17,7 +17,12 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+	
+    
+    
+    HQCommondView * view = [[HQCommondView alloc]initWithFrame:CGRectMake(50, 200, 200, 200)];
+    [self.view addSubview:view];
+    
 }
 
 - (void)didReceiveMemoryWarning
