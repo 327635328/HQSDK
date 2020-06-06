@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'HQSDK'
-  s.version          = '0.6.0'
+  s.version          = '0.7.0'
   s.summary          = '张兮兮的HQSDK.'
 
 # This description is used to generate tags and improve search results.
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-                           自定义工具类
+                           自定义工具类,自制framework和.a文件等等
                        DESC
 
   s.homepage         = 'https://github.com/327635328/HQSDK'

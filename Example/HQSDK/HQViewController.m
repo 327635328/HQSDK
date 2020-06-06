@@ -7,7 +7,7 @@
 //
 
 #import "HQViewController.h"
-#import <HQSDKFramework/HQSDK.h>
+#import <HQSDKFramework/HQCommondView.h>
 
 @interface HQViewController ()
 

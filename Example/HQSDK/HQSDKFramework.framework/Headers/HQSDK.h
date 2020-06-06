@@ -7,8 +7,6 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "HQCommondView.h"
-#import "HQCommondController.h"
 NS_ASSUME_NONNULL_BEGIN
 
 @interface HQSDK : NSObject

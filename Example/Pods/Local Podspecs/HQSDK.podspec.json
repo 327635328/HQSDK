@@ -1,6 +1,6 @@
 {
   "name": "HQSDK",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "summary": "张兮兮的HQSDK.",
   "description": "自定义工具类",
   "homepage": "https://github.com/327635328/HQSDK",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/327635328/HQSDK.git",
-    "tag": "0.6.0"
+    "tag": "0.7.0"
   },
   "platforms": {
     "ios": "8.0"

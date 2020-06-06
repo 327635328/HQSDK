@@ -4,9 +4,17 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/HQCommondController.h</key>
+		<data>
+		QFpq+2RW2NVhPuxJzlQJ1hcgujg=
+		</data>
+		<key>Headers/HQCommondView.h</key>
+		<data>
+		OnTCtMCmIKNv5pUPqTgZWDj4Nuk=
+		</data>
 		<key>Headers/HQSDK.h</key>
 		<data>
-		N2TjMAOoZQSnhpQYwKm+vUFWJa8=
+		3ZWSBC0q7NJ9CcmNY/zaI5+HN4I=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -15,15 +23,37 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/HQCommondController.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QFpq+2RW2NVhPuxJzlQJ1hcgujg=
+			</data>
+			<key>hash2</key>
+			<data>
+			StmjCK8ccoUc+/ciy6ph3r7U5rq2GxiOtliBVw5XXIA=
+			</data>
+		</dict>
+		<key>Headers/HQCommondView.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OnTCtMCmIKNv5pUPqTgZWDj4Nuk=
+			</data>
+			<key>hash2</key>
+			<data>
+			0x3UHrpgA4YJkOS9lkmtJS/H82yCwQTTkeI8c+yWkFo=
+			</data>
+		</dict>
 		<key>Headers/HQSDK.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			N2TjMAOoZQSnhpQYwKm+vUFWJa8=
+			3ZWSBC0q7NJ9CcmNY/zaI5+HN4I=
 			</data>
 			<key>hash2</key>
 			<data>
-			4HkQjYkxzL33xEeahmJzKYGiC4pZLdgo36jbihgQlMI=
+			twIqmhGw5W3FV72Mjf2hPuo2YX2vIiJRR7m69omU4Ms=
 			</data>
 		</dict>
 	</dict>

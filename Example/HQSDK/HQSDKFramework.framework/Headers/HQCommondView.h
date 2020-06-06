@@ -1,13 +1,17 @@
 //
-//  HQColor.m
+//  HQCommondView.h
 //  HQSDK_Example
 //
 //  Created by 张兮兮 on 2020/6/5.
 //  Copyright © 2020 327635328. All rights reserved.
 //
 
-#import "HQColor.h"
+#import <UIKit/UIKit.h>
 
-@implementation HQColor
+NS_ASSUME_NONNULL_BEGIN
+
+@interface HQCommondView : UIView
 
 @end
+
+NS_ASSUME_NONNULL_END
