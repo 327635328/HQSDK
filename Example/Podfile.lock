@@ -19,7 +19,7 @@ PODS:
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
-  - HQSDK (0.4.0):
+  - HQSDK (0.6.0):
     - AFNetworking
     - Masonry
   - Masonry (1.1.0)
@@ -41,7 +41,7 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  HQSDK: 8106b86b4f210a45962c64c62ea553b7a5daaa64
+  HQSDK: 6876df334bc985759d3e4187cbc8ca402843c1f0
   Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
 
 PODFILE CHECKSUM: e56c52431207fc9e609d678afefdbdc5e45fc342
