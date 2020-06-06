@@ -1,8 +1,8 @@
 {
   "name": "HQSDK",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "summary": "张兮兮的HQSDK.",
-  "description": "自定义工具类",
+  "description": "自定义工具类,自制framework和.a文件等等",
   "homepage": "https://github.com/327635328/HQSDK",
   "license": {
     "type": "MIT",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/327635328/HQSDK.git",
-    "tag": "0.7.0"
+    "tag": "0.8.0"
   },
   "platforms": {
     "ios": "8.0"
