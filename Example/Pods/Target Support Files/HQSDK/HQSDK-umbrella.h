@@ -11,7 +11,6 @@
 #endif
 
 #import "HQColor.h"
-#import "HQSDK.h"
 
 FOUNDATION_EXPORT double HQSDKVersionNumber;
 FOUNDATION_EXPORT const unsigned char HQSDKVersionString[];
