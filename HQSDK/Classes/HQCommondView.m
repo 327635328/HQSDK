@@ -7,7 +7,7 @@
 //
 
 #import "HQCommondView.h"
-
+#import "Masonry.h"
 @implementation HQCommondView
 
 /*
@@ -23,6 +23,20 @@
     self = [super initWithFrame:frame];
     if (self) {
         self.backgroundColor = [UIColor orangeColor];
+        
+        
+        UIView * view = [UIView new];
+        view.backgroundColor = [UIColor grayColor];
+        [self addSubview:view];
+        
+        
+        [view mas_makeConstraints:^(MASConstraintMaker *make) {
+            make.center.mas_equalTo(0);
+            make.size.mas_equalTo(CGSizeMake(100, 100));
+        }];
+        
+        
+        
     }
     return self;
 }
