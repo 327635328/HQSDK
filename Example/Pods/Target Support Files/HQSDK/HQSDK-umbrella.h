@@ -10,8 +10,8 @@
 #endif
 #endif
 
-#import "HQCommondController.h"
-#import "HQCommondView.h"
+#import "HQColor.h"
+#import "HQSDK.h"
 
 FOUNDATION_EXPORT double HQSDKVersionNumber;
 FOUNDATION_EXPORT const unsigned char HQSDKVersionString[];
