@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'HQSDK'
-  s.version          = '0.1.2'
+  s.version          = '0.1.3'
   s.summary          = '简单介绍'
 
 # This description is used to generate tags and improve search results.
@@ -30,7 +30,14 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'HQSDK/Classes/**/*'
+#  s.source_files = 'HQSDK/Classes/**/*'
+  s.subspec 'Categories' do |cc|
+      cc.source_files = 'HQSDK/Classes/Categories/**/*'
+  end
+  
+  s.subspec 'Others' do |oo|
+      oo.source_files = 'HQSDK/Classes/Others/**/*'
+  end
   
   # s.resource_bundles = {
   #   'HQSDK' => ['HQSDK/Assets/*.png']
