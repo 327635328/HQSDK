@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'HQSDK'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = '简单介绍'
 
 # This description is used to generate tags and improve search results.
@@ -39,4 +39,13 @@ Pod::Spec.new do |s|
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
+  s.dependency 'Masonry'
+  s.dependency 'MJRefresh'
+  s.dependency 'MJExtension'
+  s.dependency 'ReactiveObjC'
+  s.dependency 'SDWebImage'
+  s.dependency 'AFNetworking'
+  s.dependency 'LSTPopView'
+  s.dependency 'TZImagePickerController'
+  
 end
