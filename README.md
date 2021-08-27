@@ -20,9 +20,6 @@ it, simply add the following line to your Podfile:
 pod 'HQSDK'
 ```
 
-## Author
-
-x1248399884@163.com, 327635328@qq.com
 
 ## License
 
